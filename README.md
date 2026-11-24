@@ -4,7 +4,7 @@
 
 ### Hi, I'm Kevin.
 
-I'm a data analytics and engineering professional with **10+ years of experience** building data solutions, leading analytics teams, and turning complex information into business decisions. I enjoy working across the entire lifecycle—from engineering the data to figuring out what it actually means.
+I'm a data analytics and engineering professional with **10+ years of experience** building data solutions, leading analytics teams, and turning complex information into business decisions. I enjoy working across the entire data lifecycle—from engineering pipelines and models to turning data into actionable insights.
 
 ---
 
