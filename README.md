@@ -1,16 +1,24 @@
-## Hi there 👋
+# Kevin Love
+### Data Analytics & Engineering
 
-<!--
-**Klove778/Klove778** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a data analytics and engineering professional with over 10 years of experience building data solutions, leading analytics teams, and turning complex data into actionable business insights.
 
-Here are some ideas to get you started:
+My background spans data engineering, analytics engineering, business intelligence, and healthcare analytics. I enjoy working across the entire data lifecycle, from building pipelines and data models to delivering insights that support business decisions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+
+### [Medicare Claims Analytics](https://github.com/Klove778/Kevin_Love_Data_Analytics_and_Engineering)
+
+An end-to-end healthcare analytics project using synthetic Medicare claims data.
+
+- Built a data pipeline using Python, PostgreSQL, and dbt.
+- Developed dimensional models, incremental transformations, and data quality tests.
+- Created interactive Tableau dashboards exploring healthcare spending, utilization, and chronic disease risk.
+- Identified potential care-management opportunities through population and comorbidity analysis.
+
+**[Explore the project](https://github.com/Klove778/Kevin_Love_Data_Analytics_and_Engineering)**
+
+## Connect
+
+- **LinkedIn:** www.linkedin.com/in/kevin-l-a50a1833
+- **GitHub:** [Klove778](https://github.com/Klove778)
