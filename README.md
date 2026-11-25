@@ -16,7 +16,7 @@ I'm a data analytics and engineering professional with **10+ years of experience
 
 ### Medicare Claims Analytics
 
-An end-to-end healthcare analytics project built on synthetic Medicare claims data. I developed the ingestion pipeline, data warehouse, transformation and testing layers, and interactive dashboards—then used the data to investigate spending concentration, chronic conditions, and potential care-management opportunities.
+An end-to-end healthcare analytics project built on synthetic Medicare claims data. I developed the ingestion pipeline, data warehouse, transformation and testing layers, and interactive dashboards. Then I used the data to investigate spending concentration, chronic conditions, and potential care-management opportunities.
 
 **The goal:** Demonstrate not just how to build a reliable analytics solution, but how to turn it into a meaningful business conversation.
 
